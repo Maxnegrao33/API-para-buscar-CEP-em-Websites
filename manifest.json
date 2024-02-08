@@ -1,0 +1,14 @@
+{
+    "manifest_version":3,
+    "name": "CEP VIA EXTENSÃO",
+    "version": "1.0",
+    "permissions": [
+        "activeTab"
+    ],
+    "host_permissions":[
+        "https://viacep.com.br"
+    ],
+    "action":{
+        "default_popup":"popup.html"
+    }
+}
